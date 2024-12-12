@@ -411,7 +411,7 @@ sections:
         tagline: Foto
         subtitle: Cosplay Leak >w<
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Bweeeee><
         image:
           url: /images/WhatsApp Image 2024-12-13 at 03.17.49_97deb566.jpg
           altText: Placeholder Image
