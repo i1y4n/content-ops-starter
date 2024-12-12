@@ -453,7 +453,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Fotoku Memakai HP Atmin
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
