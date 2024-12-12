@@ -456,9 +456,8 @@ sections:
       - title: Fotoku Memakai HP Atmin
         tagline: Foto
         subtitle: Bweee><
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          Meong
         image:
           url: /images/WhatsApp Image 2024-12-13 at 03.19.41_b72dcc94.jpg
           altText: Placeholder image
