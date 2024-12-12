@@ -20,6 +20,7 @@ sections:
         icon: arrowRight
         iconPosition: left
         style: primary
+        showIcon: true
       - type: Link
         label: ''
         url: /
