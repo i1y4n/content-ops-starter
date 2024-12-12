@@ -317,7 +317,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: "“Feris Orangnya Sangat Baik,Tidak Suka Berkata Kasar, Soft Spoken,Gentle, Sayang Orang Tua, Tidak Ada Riwayat Judi Online,\_ Dan Cukup 1 Wanita\""
-        tagline: Testimonial 1
+        tagline: Ucapan Dari Teman
         subtitle: 'Muh. Farid Hakim, Raja Kopang'
         text: ''
         image:
