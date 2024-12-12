@@ -316,9 +316,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: "“Feris Orangnya Sangat Baik,Tidak Suka Berkata Kasar, Soft Spoken,Gentle, Sayang Orang Tua, Tidak Ada Riwayat Judi Online,\_ Dan Cukup 1 Wanita\""
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
