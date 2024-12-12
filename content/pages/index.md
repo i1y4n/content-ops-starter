@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: SELAMAT ULANG TAHUN FERIS
+      text: HAPPY BIRTHDAY FERRIS
       color: text-dark
     subtitle: SELAMAT ULANG TAHUN FERIS
     text: >
