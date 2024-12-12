@@ -431,7 +431,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Fotoku Saat Kerja Kelompok
-        tagline: This is the tagline
+        tagline: Foto
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
