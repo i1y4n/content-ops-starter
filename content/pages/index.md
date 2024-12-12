@@ -318,7 +318,7 @@ sections:
     items:
       - title: "“Feris Orangnya Sangat Baik,Tidak Suka Berkata Kasar, Soft Spoken,Gentle, Sayang Orang Tua, Tidak Ada Riwayat Judi Online,\_ Dan Cukup 1 Wanita\""
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Muh. Farid Hakim, Raja Kopang'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
