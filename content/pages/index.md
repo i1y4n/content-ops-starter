@@ -601,11 +601,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Ucapan Yang Hangat Membuat Feris Senang ^^
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Halo, teman-teman! Hari ini adalah hari spesialku—ulang tahunku! ✨ Aku
+      ingin berbagi kebahagiaan ini dengan kalian semua. Kalau berkenan,
+      tinggalkan ucapan atau doa terbaikmu di sini. Setiap kata dari kalian
+      pasti akan membuat hariku makin berwarna!
+
     media:
       fields:
         - name: name
