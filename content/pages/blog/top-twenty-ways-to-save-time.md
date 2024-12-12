@@ -7,7 +7,7 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/WhatsApp Image 2024-12-13 at 02.52.43_69799ad4.jpg
+  url: /images/WhatsApp Image 2024-12-13 at 02.54.37_76b8d458.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
