@@ -19,7 +19,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: left
-        style: secondary
+        style: primary
       - type: Link
         label: ''
         url: /
