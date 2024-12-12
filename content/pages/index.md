@@ -196,10 +196,6 @@ sections:
       url: /images/WhatsApp Image 2024-12-13 at 03.31.24_0237e036.jpg
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
