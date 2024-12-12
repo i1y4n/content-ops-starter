@@ -407,7 +407,7 @@ sections:
       type: TitleBlock
     subtitle: Kumpulan Foto Keren Ku
     items:
-      - title: Feature Item One
+      - title: Foto Ku Saat Di Tongkrongan
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
