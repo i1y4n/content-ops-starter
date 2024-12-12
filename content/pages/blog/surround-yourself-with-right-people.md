@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/WhatsApp Image 2024-12-13 at 02.53.27_c793822e.jpg
   styles:
     self:
       borderRadius: medium
