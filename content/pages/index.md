@@ -182,7 +182,7 @@ sections:
     subtitle: Berikan Ucapan untuknya
     text: >
       Mendengarkan Frank Ocean Selama Setidaknya 2 Jam Perhari Memperpanjang
-      Umur Manusia  Sampai 10 Tahun 
+      Umur Manusia  Sampai 10 Tahun
     actions:
       - label: Get started
         url: /
