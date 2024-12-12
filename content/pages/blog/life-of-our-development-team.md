@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/WhatsApp Image 2024-12-13 at 02.55.26_befece6f.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
