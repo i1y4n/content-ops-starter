@@ -176,7 +176,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Social Media Management
+      text: Ferris Sangat Menyukai Frank Ocean
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
