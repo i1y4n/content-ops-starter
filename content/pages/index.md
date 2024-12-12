@@ -9,7 +9,8 @@ sections:
       type: TitleBlock
     subtitle: JUAL BELI FERIS
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
+      ![](/images/WhatsApp%20Image%202024-12-12%20at%2021.14.36_ba04aea9.jpg)A
+      Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
