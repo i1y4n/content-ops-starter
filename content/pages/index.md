@@ -65,7 +65,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Kelompok Kami
       color: text-dark
       styles:
         self:
