@@ -321,7 +321,7 @@ sections:
         subtitle: 'Muh. Farid Hakim, Raja Kopang'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/WhatsApp Image 2024-12-12 at 22.02.21_e184d4a2.jpg
           altText: Maria Walters
           styles:
             self:
