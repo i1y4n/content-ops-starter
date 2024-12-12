@@ -102,6 +102,7 @@ sections:
           self:
             borderRadius: xx-small
             borderColor: border-dark
+            borderWidth: 2
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
