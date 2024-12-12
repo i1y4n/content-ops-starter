@@ -407,11 +407,11 @@ sections:
       type: TitleBlock
     subtitle: Kumpulan Foto Keren Ku
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Foto Ku Saat Di Tongkrongan
+        tagline: Foto
+        subtitle: Cosplay Leak >w<
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Bweeeee><
         image:
           url: /images/WhatsApp Image 2024-12-13 at 03.17.49_97deb566.jpg
           altText: Placeholder Image
@@ -430,11 +430,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Fotoku Saat Kerja Kelompok
+        tagline: Foto
+        subtitle: Senyum Bahagia
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Tersenyum ^^
         image:
           url: /images/WhatsApp Image 2024-12-13 at 03.19.36_8e6e782b.jpg
           altText: Placeholder image
@@ -453,12 +453,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Fotoku Memakai HP Atmin
+        tagline: Foto
+        subtitle: Bweee><
+        text: |
+          Meong
         image:
           url: /images/WhatsApp Image 2024-12-13 at 03.19.41_b72dcc94.jpg
           altText: Placeholder image
