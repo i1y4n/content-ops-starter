@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/WhatsApp Image 2024-12-12 at 22.02.29_c55cb17e.jpg
   altText: Case study 3
   styles:
     self:
