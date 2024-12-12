@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: JUAL BELI FERIS
+    subtitle: SELAMAT ULANG TAHUN FERIS
     text: >
       ![](/images/WhatsApp%20Image%202024-12-12%20at%2021.14.36_ba04aea9.jpg)A
       Netlify Create website is a git repo that you own. Every code commit is
