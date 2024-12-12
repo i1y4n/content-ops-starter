@@ -92,7 +92,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Sponsor Kami
     images:
       - type: ImageBlock
         url: /images/Blonde_-_Frank_Ocean (1).jpeg
