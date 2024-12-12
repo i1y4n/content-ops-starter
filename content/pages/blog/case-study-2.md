@@ -1,14 +1,14 @@
 ---
-title: Case study 2
+title: Muh.Farid Hakim
 slug: case-study-2
-date: '2022-02-16'
+date: '1918-03-16'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/WhatsApp Image 2024-12-12 at 22.02.21_e184d4a2.jpg
   altText: Case study 2
   styles:
     self:

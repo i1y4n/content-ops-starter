@@ -1,15 +1,14 @@
 ---
-title: Case study 3
+title: Reno Kurniawan
 slug: case-study-3
-date: '2021-11-18'
+date: '2006-02-18'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/WhatsApp Image 2024-12-12 at 22.02.29_c55cb17e.jpg
   altText: Case study 3
   styles:
     self:

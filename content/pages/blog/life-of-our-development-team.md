@@ -1,13 +1,12 @@
 ---
-title: A Day in the Life of Our Development Team
+title: Danau Segara Anak Bersama Kelompok Pak Vincent
 slug: life-of-our-development-team
-date: '2023-03-27'
+date: '2024-07-20'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Dalam gelapnya malam, teman adalah bintang yang selalu bersinar, menerangi
+  perjalanan hidup dengan cahayanya..
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/WhatsApp Image 2024-12-13 at 02.55.26_befece6f.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:

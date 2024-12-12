@@ -1,9 +1,8 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
+    "name": "Pak Vincent",
     "role": "Co-founder & CEO",
     "image": {
-        "url": "/images/avatar2.svg",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
