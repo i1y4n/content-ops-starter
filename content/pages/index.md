@@ -95,7 +95,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/Blonde_-_Frank_Ocean (1).jpeg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
