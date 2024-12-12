@@ -432,7 +432,7 @@ sections:
         type: FeaturedItem
       - title: Fotoku Saat Kerja Kelompok
         tagline: Foto
-        subtitle: This is the item subtitle
+        subtitle: Senyum Bahagia
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
