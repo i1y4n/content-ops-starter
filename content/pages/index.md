@@ -2,52 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: SELAMAT ULANG TAHUN FERIS
-    text: >
-      ![](/images/WhatsApp%20Image%202024-12-12%20at%2021.14.36_ba04aea9.jpg)A
-      Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/WhatsApp Image 2024-12-12 at 17.13.00_caece7b2.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
