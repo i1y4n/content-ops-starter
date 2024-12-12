@@ -18,7 +18,7 @@ sections:
         label: Beri Ucapan
         url: /
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
       - type: Link
         label: ''
