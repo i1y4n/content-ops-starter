@@ -191,6 +191,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        showIcon: true
     media:
       url: /images/WhatsApp Image 2024-12-13 at 03.31.24_0237e036.jpg
       altText: Fun feature preview
