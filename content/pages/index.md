@@ -8,9 +8,11 @@ sections:
       text: HAPPY BIRTHDAY FERRIS
       color: text-dark
     subtitle: SELAMAT ULANG TAHUN FERIS
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      Selamat ulang tahun! Semoga panjang umur, sehat selalu, dan segala harapan
+      baikmu segera tercapai. Nikmati hari spesialmu!
+
     actions:
       - type: Button
         label: Get started
