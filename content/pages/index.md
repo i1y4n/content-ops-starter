@@ -179,7 +179,7 @@ sections:
       text: Ferris Sangat Menyukai Frank Ocean
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Berikan Ucapan untuknya
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
