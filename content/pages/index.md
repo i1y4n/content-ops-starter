@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: SELAMAT ULANG TAHUN FERIS
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: SELAMAT ULANG TAHUN FERIS
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
