@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: Puncak Rinjani Bersama Kelompok Pak Vincent -1
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
