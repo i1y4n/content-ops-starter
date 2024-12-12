@@ -301,42 +301,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/WhatsApp Image 2024-12-13 at 03.31.25_330b1bd4.jpg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: clairo
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
