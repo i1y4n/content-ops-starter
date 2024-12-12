@@ -15,7 +15,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Beri Ucapan
         url: /
         icon: arrowRight
         iconPosition: right
