@@ -408,7 +408,7 @@ sections:
     subtitle: Kumpulan Foto Keren Ku
     items:
       - title: Foto Ku Saat Di Tongkrongan
-        tagline: This is the tagline
+        tagline: Foto
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
