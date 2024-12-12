@@ -198,7 +198,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/WhatsApp Image 2024-12-13 at 03.31.24_0237e036.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
