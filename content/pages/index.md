@@ -98,6 +98,9 @@ sections:
         url: /images/Blonde_-_Frank_Ocean (1).jpeg
         altText: Wellster logo
         elementId: ''
+        styles:
+          self:
+            borderRadius: xx-small
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
