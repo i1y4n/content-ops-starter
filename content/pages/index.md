@@ -434,7 +434,7 @@ sections:
         tagline: Foto
         subtitle: Senyum Bahagia
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Tersenyum ^^
         image:
           url: /images/WhatsApp Image 2024-12-13 at 03.19.36_8e6e782b.jpg
           altText: Placeholder image
