@@ -505,7 +505,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Foto Keren Ku
       color: text-primary
       styles:
         self:
