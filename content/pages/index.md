@@ -409,7 +409,7 @@ sections:
     items:
       - title: Foto Ku Saat Di Tongkrongan
         tagline: Foto
-        subtitle: This is the item subtitle
+        subtitle: Cosplay Leak >w<
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
