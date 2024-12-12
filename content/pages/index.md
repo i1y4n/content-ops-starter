@@ -36,7 +36,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Kawan Kawan
       color: text-dark
       styles:
         self:
