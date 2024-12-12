@@ -324,7 +324,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Blonde_-_Frank_Ocean (1).jpeg
+      url: /images/WhatsApp Image 2024-12-13 at 03.31.25_330b1bd4.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
