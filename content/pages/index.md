@@ -455,7 +455,7 @@ sections:
         type: FeaturedItem
       - title: Fotoku Memakai HP Atmin
         tagline: Foto
-        subtitle: This is the item subtitle
+        subtitle: Bweee><
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
