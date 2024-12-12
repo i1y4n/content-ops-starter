@@ -324,7 +324,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/500x500.jpg
+      url: /images/Blonde_-_Frank_Ocean (1).jpeg
       altText: Dope design preview
       type: ImageBlock
     badge:
