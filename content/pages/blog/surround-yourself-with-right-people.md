@@ -3,8 +3,8 @@ title: Puncak Rinjani Bersama Kelompok Pak Vincent -1
 slug: surround-yourself-with-right-people
 date: '2024-07-19'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Kehangatan sejati bukan hanya di hati, tapi di tawa dan cerita yang kita
+  bagikan bersama
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
