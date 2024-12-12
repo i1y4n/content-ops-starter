@@ -81,7 +81,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Sponsor Kami
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
