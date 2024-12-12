@@ -99,7 +99,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/1900x1900-000000-80-0-0.jpg
+        url: /images/WhatsApp Image 2024-12-13 at 03.31.26_5ad3cffd.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
