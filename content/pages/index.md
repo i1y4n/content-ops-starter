@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: Beri Ucapan
-        url: /
+        url: /Ucapkan Selamat Ulang Tahun Ke Feris
         icon: arrowRight
         iconPosition: right
         style: secondary
