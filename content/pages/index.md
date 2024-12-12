@@ -99,7 +99,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/500x500.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
