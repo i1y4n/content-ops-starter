@@ -181,8 +181,8 @@ sections:
       type: TitleBlock
     subtitle: Berikan Ucapan untuknya
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Mendengarkan Frank Ocean Selama Setidaknya 2 Jam Perhari Memperpanjang
+      Umur Manusia  Sampai 10 Tahun 
     actions:
       - label: Get started
         url: /
