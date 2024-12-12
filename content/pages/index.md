@@ -103,6 +103,7 @@ sections:
             borderRadius: xx-small
             borderColor: border-dark
             borderWidth: 2
+            borderStyle: solid
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
