@@ -35,7 +35,7 @@ sections:
         alignItems: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Kawan Kawan
       color: text-dark
       styles:
         self:
