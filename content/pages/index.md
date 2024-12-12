@@ -185,7 +185,8 @@ sections:
       Umur Manusia  Sampai 10 Tahun
     actions:
       - label: Dengarkan Sekarang
-        url: /
+        url: >-
+          /https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM?si=lEChap_pQxCrS39sNDHYRg
         icon: arrowRight
         iconPosition: right
         style: secondary
