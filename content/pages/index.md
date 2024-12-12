@@ -29,7 +29,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/WhatsApp Image 2024-12-12 at 21.14.36_ba04aea9.jpg
       altText: Fun feature preview
     badge:
       type: Badge
