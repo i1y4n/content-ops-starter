@@ -131,7 +131,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Teman dekatku
       color: text-primary
       styles:
         self:
