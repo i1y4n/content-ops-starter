@@ -347,7 +347,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '""'
+      - title: "\"\_I'm going awayDid I forget to mention how long I'd stay?Is that a question for another day?But while we're away\""
         tagline: Pacar Ferris
         subtitle: 'Beabadobee, Beatopia'
         text: |
