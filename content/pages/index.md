@@ -321,9 +321,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: “I think we could do it if we try”
         tagline: Ucapan Dari Mantan
         subtitle: 'Maria Walters, Company'
         text: >-
