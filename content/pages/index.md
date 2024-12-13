@@ -206,7 +206,7 @@ sections:
       type: TitleBlock
       text: Lokasi Ulang Tahun Ferris
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Jangan Lupa Datang Yaa^^
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
