@@ -237,7 +237,7 @@ sections:
       type: TitleBlock
       text: Lokasi Tempat Ulang Tahun Ku
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Isekai
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
