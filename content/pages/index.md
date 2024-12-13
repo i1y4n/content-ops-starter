@@ -303,7 +303,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/WhatsApp Image 2024-12-13 at 03.31.24_fc52d4a2.jpg
           altText: Maria Walters
           styles:
             self:
