@@ -376,7 +376,7 @@ sections:
       - title: >-
           “Show me how you're proudTell me how you reach the moonMy thoughts err
           away tonightMy heart fell to love again”
-        tagline: Testimonial 6
+        tagline: Pacar Alfian
         subtitle: 'Emma, Men I Trust'
         text: |
           Selamat ulang tahun ya, ga bole panjang panjang takut pacarku marah
