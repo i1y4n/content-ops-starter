@@ -373,7 +373,9 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: “”
+      - title: >-
+          “Show me how you're proudTell me how you reach the moonMy thoughts err
+          away tonightMy heart fell to love again”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
