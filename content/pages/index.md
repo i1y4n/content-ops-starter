@@ -383,7 +383,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/images.jpeg
+          url: /images/menitrust.jpg
           altText: Jane Doe
           styles:
             self:
