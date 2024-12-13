@@ -383,7 +383,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/download (1).jpeg
+          url: /images/images.jpeg
           altText: Jane Doe
           styles:
             self:
