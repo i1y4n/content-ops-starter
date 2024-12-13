@@ -207,9 +207,7 @@ sections:
       text: Lokasi Ulang Tahun Ferris
       color: text-dark
     subtitle: Jangan Lupa Datang Yaa^^
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: "\nHalo teman-teman! Aku mau mengundang kalian ke pesta ulang tahunku yang bakal penuh keseruan! \U0001F389 Acara ini akan diadakan di Isekai pada 15 Januari pukul 21:00. Ayo datang dan rayakan hari spesialku bareng-bareng. Kehadiranmu akan membuat pestaku lebih meriah!^^\n\n"
     actions:
       - type: Button
         label: Get started
