@@ -269,7 +269,7 @@ sections:
           "I came to visit, 'cause you see me like a UFOThat's like never'Cause
           I made you use your self-controlAnd you made me lose my self-control,
           my self-control"
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
