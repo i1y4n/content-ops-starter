@@ -241,14 +241,7 @@ sections:
     text: >
       Isekai adalah tempat terbaik, cara untuk datang kesana adalah dengan cara
       di kecup oleh Truck-kun 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-12-13 at 08.47.03_92b062b2.jpg
