@@ -303,7 +303,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/ab67616d0000b27333ccb60f9b2785ef691b2fbc.jpeg
+          url: /images/Clairo_-_Sling.png
           altText: Maria Walters
           styles:
             self:
