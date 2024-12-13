@@ -271,10 +271,7 @@ sections:
           my self-control"
         tagline: ''
         subtitle: 'Maria Walters, Company'
-        text: >
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/Blonde_-_Frank_Ocean (1).jpeg
           altText: Maria Walters
