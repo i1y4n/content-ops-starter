@@ -239,8 +239,8 @@ sections:
       color: text-dark
     subtitle: Isekai
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Isekai adalah tempat terbaik, cara untuk datang kesana adalah dengan cara
+      di kecup oleh Truck-kun 
     actions:
       - type: Button
         label: Get started
