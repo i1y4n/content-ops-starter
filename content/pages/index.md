@@ -241,7 +241,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Pesan Pesan Dari Sahabat
     items:
       - title: "“Feris Orangnya Sangat Baik,Tidak Suka Berkata Kasar, Soft Spoken,Gentle, Sayang Orang Tua, Tidak Ada Riwayat Judi Online,\_ Dan Cukup 1 Wanita\""
         tagline: Ucapan Dari Teman
