@@ -265,7 +265,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '""'
+      - title: >-
+          "I came to visit, 'cause you see me like a UFOThat's like never'Cause
+          I made you use your self-controlAnd you made me lose my self-control,
+          my self-control"
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
