@@ -350,10 +350,8 @@ sections:
       - title: '""'
         tagline: Pacar Ferris
         subtitle: 'Beabadobee, Beatopia'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Selamat ulang tahun ganteng semoga panjang panjang ^^
         image:
           url: /images/ab6761610000e5ebe7c6cea0c83857388127fced.jpeg
           altText: Maria Walters
