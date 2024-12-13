@@ -201,6 +201,27 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Lokasi Ulang Tahun Ferris
+      color: text-dark
+    subtitle: Jangan Lupa Datang Yaa^^
+    text: "\nHalo teman-teman! Aku mau mengundang kalian ke pesta ulang tahunku yang bakal penuh keseruan! \U0001F389 Acara ini akan diadakan di Isekai pada 15 Januari pukul 21:00. Ayo datang dan rayakan hari spesialku bareng-bareng. Kehadiranmu akan membuat pestaku lebih meriah!^^\n\n"
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2024-12-13 at 02.33.58_f6d97327.jpg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Lokasi
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -211,9 +232,31 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Lokasi Tempat Ulang Tahun Ku
+      color: text-dark
+    subtitle: Isekai
+    text: >
+      Isekai adalah tempat terbaik, cara untuk datang kesana adalah dengan cara
+      di kecup oleh Truck-kun 
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2024-12-13 at 08.47.03_92b062b2.jpg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: lokasi
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Pesan Pesan Dari Sahabat
     items:
       - title: "“Feris Orangnya Sangat Baik,Tidak Suka Berkata Kasar, Soft Spoken,Gentle, Sayang Orang Tua, Tidak Ada Riwayat Judi Online,\_ Dan Cukup 1 Wanita\""
         tagline: Ucapan Dari Teman
@@ -240,17 +283,12 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '"I can hear the bells Ringing"'
+        tagline: Ucapan Dari Teman
+        subtitle: 'Daniel Caesar, Never Enough'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/500x500.jpg
           altText: John Doe
           styles:
             self:
@@ -271,16 +309,66 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "I came to visit, 'cause you see me like a UFOThat's like never'Cause
+          I made you use your self-controlAnd you made me lose my self-control,
+          my self-control"
+        tagline: ''
+        subtitle: 'Frank Ocean, Blonded'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Blonde_-_Frank_Ocean (1).jpeg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: “I think we could do it if we try”
+        tagline: Ucapan Dari Mantan
+        subtitle: 'Clairo, Sling'
+        text: |
+          Selamat ulang tahun ya ferris, semoga bahagia tanpa aku :(
+        image:
+          url: /images/Clairo_-_Sling.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: "\"\_I'm going awayDid I forget to mention how long I'd stay?Is that a question for another day?But while we're away\""
+        tagline: Pacar Ferris
+        subtitle: 'Beabadobee, Beatopia'
+        text: |
+          Selamat ulang tahun ganteng semoga panjang panjang ^^
+        image:
+          url: /images/ab6761610000e5ebe7c6cea0c83857388127fced.jpeg
           altText: Maria Walters
           styles:
             self:
@@ -301,76 +389,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Show me how you're proudTell me how you reach the moonMy thoughts err
+          away tonightMy heart fell to love again”
+        tagline: Pacar Alfian
+        subtitle: 'Emma, Men I Trust'
+        text: |
+          Selamat ulang tahun ya, ga bole panjang panjang takut pacarku marah
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
+          url: /images/menitrust.jpg
           altText: Jane Doe
           styles:
             self:
