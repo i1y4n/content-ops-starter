@@ -377,7 +377,7 @@ sections:
           “Show me how you're proudTell me how you reach the moonMy thoughts err
           away tonightMy heart fell to love again”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Emma, Men I Trust'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
