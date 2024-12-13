@@ -323,7 +323,7 @@ sections:
         type: FeaturedItem
       - title: “I think we could do it if we try”
         tagline: Ucapan Dari Mantan
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Clairo, Sling'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
