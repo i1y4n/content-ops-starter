@@ -378,10 +378,8 @@ sections:
           away tonightMy heart fell to love again”
         tagline: Testimonial 6
         subtitle: 'Emma, Men I Trust'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Selamat ulang tahun ya, ga bole panjang panjang takut pacarku marah
         image:
           url: /images/menitrust.jpg
           altText: Jane Doe
