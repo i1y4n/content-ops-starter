@@ -243,10 +243,7 @@ sections:
       - title: '"I can hear the bells Ringing"'
         tagline: Ucapan Dari Teman
         subtitle: 'Daniel Caesar, Never Enough'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/500x500.jpg
           altText: John Doe
