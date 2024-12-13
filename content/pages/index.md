@@ -235,7 +235,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Lokasi Tempat Ulang Tahun Ku
       color: text-dark
     subtitle: Increase your reach
     text: >
