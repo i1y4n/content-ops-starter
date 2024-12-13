@@ -324,10 +324,8 @@ sections:
       - title: “I think we could do it if we try”
         tagline: Ucapan Dari Mantan
         subtitle: 'Clairo, Sling'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Selamat ulang tahun ya ferris, semoga bahagia tanpa aku :(
         image:
           url: /images/Clairo_-_Sling.png
           altText: Maria Walters
