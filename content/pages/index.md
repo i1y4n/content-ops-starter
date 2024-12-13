@@ -208,14 +208,7 @@ sections:
       color: text-dark
     subtitle: Jangan Lupa Datang Yaa^^
     text: "\nHalo teman-teman! Aku mau mengundang kalian ke pesta ulang tahunku yang bakal penuh keseruan! \U0001F389 Acara ini akan diadakan di Isekai pada 15 Januari pukul 21:00. Ayo datang dan rayakan hari spesialku bareng-bareng. Kehadiranmu akan membuat pestaku lebih meriah!^^\n\n"
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-12-13 at 02.33.58_f6d97327.jpg
