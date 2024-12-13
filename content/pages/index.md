@@ -270,7 +270,7 @@ sections:
           I made you use your self-controlAnd you made me lose my self-control,
           my self-control"
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Frank Ocean, Blonded'
         text: ''
         image:
           url: /images/Blonde_-_Frank_Ocean (1).jpeg
