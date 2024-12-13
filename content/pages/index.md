@@ -242,7 +242,7 @@ sections:
         type: FeaturedItem
       - title: '"I can hear the bells Ringing"'
         tagline: Ucapan Dari Teman
-        subtitle: 'John Doe, Company'
+        subtitle: 'Daniel Caesar, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
